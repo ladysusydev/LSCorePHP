@@ -2,6 +2,10 @@
 #CHANGELOG.md for the project "LSCorePHP"
 #
 -------------------------------------------------------------------
+Thesday Nov 06 18:18:00 UTC 2018 - jrobertoalas@gmail.com
+    * Version 1.2.0
+    * MIT license is added to the entire project, variables are defined for timezone
+
 
 Friday Feb 17 11:40:00 UTC 2017 - jrobertoalas@gmail.com
     * Version 1.0
